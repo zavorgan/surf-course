@@ -1,10 +1,12 @@
 # Description of your result
 
-You can describe your results in any language that is convenient for you, not just English.
+Средний возраст техники: 18.90909090909091 лет
+Средний возраст 50% самой старой техники: 12.5 лет
+
 
 ## Description
 
-[Describe what you have done]
+Cначала собираются все уникальные AgriculturalMachinery из mapBefore2010 и mapAfter2010, используя их id в качестве ключа. После сбора вычисляется средний возраст всей техники, а также средний возраст 50% самой старой техники. Вся информация выводится в консоль.
 
 ## How to
 
